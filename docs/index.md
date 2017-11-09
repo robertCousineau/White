@@ -37,7 +37,7 @@ See Working with window for more.
     TextBox textBox = (TextBox) window.Get(searchCriteria);
     textBox.Text = "Anil";
     
-UIItems can be searched based on a lot of parameters. For more look here: UIItem Identification
+UIItems can be searched based on a lot of parameters. For more look here: ![UIItem Identification](https://github.com/TestStack/White/blob/master/docs/UIItems.md)
 
 ## Architecture
 ![Index1](images/Index1.png)
